@@ -3,7 +3,7 @@
   "name": "image-host",
   "title": "Image Host",
   "description": "Host an image on imgBB",
-  "icon": "logo.png",
+  "icon": "assets/logo.png",
   "author": "almatkai",
   "categories": [
     "Media"
